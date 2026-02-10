@@ -1,5 +1,5 @@
 {
-  "name": "Njabulo_Jb",
+  "name": "Silamd-elite",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "raheem-md-boy"
   ],
-  "author": "heroku",
+  "author": "codertz26-code",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
