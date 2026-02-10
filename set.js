@@ -13,10 +13,10 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     PREFIXE: process.env.PREFIX || ".",
 
     //process.env.OWNER_NAME//
-    OWNER_NAME: process.env.OWNER_NAME || "Njabulo Jb",
+    OWNER_NAME: process.env.OWNER_NAME || "Silamd-elite",
    
     //process.env.NUMERO_OWNER//
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "26777821911",              
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "255789661031",              
    
     //process.env.AUTO_READ_STATUS//             
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
@@ -34,10 +34,10 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     BOT : process.env.BOT_NAME || 'Njabulo-Jb',
     
     //process.env.BOT_MENU_LINKS//             
-    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/mh36c7.jpg',
+    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/36vahk.png',
 
     //GURL: process.env.GURL//
-     GURL: process.env.GURL  || 'https://whatsapp.com/channel/0029VbAckOZ7tkj92um4KN3u',
+     GURL: process.env.GURL  || 'https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02',
   
     //process.env.PUBLIC_MODE//             
     MODE: process.env.PUBLIC_MODE || "yes",
