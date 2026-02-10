@@ -1,9 +1,9 @@
 {
- "name":"Njabulo_Jb",
+ "name":"Silamd-elite",
   "description":"Njabulo AI",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ety154.jpg",
-  "repository":"https://github.com/NjabuloJf/Njabulo_Jb",
+  "repository":"https://github.com/codertz26-code/silamd-elite",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
     "BOT_NAME" : {
        
       "description":"👤put A name for your bot",
-      "value":"Njabulo_Jb",
+      "value":"silamd-elite",
       "required":false
 
     } ,
@@ -83,14 +83,14 @@
     
     "desc": "👤Your Name",
     "required": false,
-    "value": "Njabulo Jb"
+    "value": "king sila"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "🍥Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "26777821911"
+    "value": "255789661031"
   },
     "WARN_COUNT":
   {
@@ -130,6 +130,3 @@
   ]
 	
 }
-
-
-
