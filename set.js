@@ -31,7 +31,7 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
     
     //process.env.BOT_NAME//            
-    BOT : process.env.BOT_NAME || 'Njabulo-Jb',
+    BOT : process.env.BOT_NAME || 'Silamd-elite',
     
     //process.env.BOT_MENU_LINKS//             
     URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/36vahk.png',
